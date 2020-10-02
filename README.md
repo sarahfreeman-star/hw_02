@@ -7,5 +7,5 @@
 ![Figure2](https://github.com/sarahfreeman-star/hw_02/blob/main/Figure_2.png)
 ### The best fit line of plot two shows that precipitation has been possibly increasing over time. It was hard to visualize the precipitation trend so I decided to include the best fit line to make it easier to understand. 
 [US Precipitation Data Set](https://www.ncdc.noaa.gov/cag/national/time-series/110-pcp-ytd-12-1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000/)
-** Link to the project website **
+**Link to the project website**
 [Project Website](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)
